@@ -14,9 +14,9 @@ After cloning the repository, be sure to setup a dotenv file for your database l
 
 ## Usage
 
-I reccomend using [Insomnia.rest] (https://insomnia.rest) to test the endpoints.
+I reccomend using [Insomnia.rest](https://insomnia.rest) to test the endpoints.
 
-[Walkthrough] (https://drive.google.com/file/d/1zGOKhqIHVuXB2EbLxYarrYZMLCvmd9Le/view?usp=sharing)
+[Walkthrough](https://drive.google.com/file/d/1zGOKhqIHVuXB2EbLxYarrYZMLCvmd9Le/view?usp=sharing)
 
 ## Credits   
 
